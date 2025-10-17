@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+section {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+h2 {
+  font-size: 32px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 35px;
+}
+
+li {
+  border: 2px grey solid;
+  border-radius: 20px;
+  width: 500px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px; 
+  box-shadow: 72px 46px 207px -91px rgba(0,0,0,1);
+}
+
+img {
+  width: 500px;
+  border-radius: 20px;
+}
