@@ -1,8 +1,6 @@
-// products
 import products from "./products.json";
 import template from "./products-template.hbs";
 
-// sciences
 import sciences from "./sciences.json";
 import stemplate from "./sciences-template.hbs";
 
